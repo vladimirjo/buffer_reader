@@ -1,4 +1,4 @@
-from buffer_reader import BufferReader
+from bufferreader import BufferReader
 
 # Move tests
 def test__move_pointer_greather_than_0_same_line():

@@ -28,7 +28,7 @@ Since this is a standalone Python class, no additional dependencies are required
 Below is a simple example demonstrating how to use `BufferReader`:
 
 ```python
-from buffer_reader import BufferReader
+from bufferreader import BufferReader
 
 buffer = "Hello\nWorld\nThis is BufferReader!"
 reader = BufferReader(buffer)

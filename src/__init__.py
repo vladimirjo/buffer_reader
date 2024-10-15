@@ -1,1 +1,1 @@
-from buffer_reader import BufferReader as BufferReader
+from src.bufferreader import BufferReader as BufferReader
