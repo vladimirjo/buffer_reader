@@ -15,7 +15,7 @@
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/bufferreader.git
+git clone https://github.com/vladimirjo/bufferreader.git
 ```
 
 Navigate to the directory:
